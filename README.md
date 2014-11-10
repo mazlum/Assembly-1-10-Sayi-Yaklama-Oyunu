@@ -1,0 +1,3 @@
+Assembly dili kullanarak hazırlanmış kullanıcıdan aldığı 1-10 arasındaki sayı ile program içerisinde daha önceden belirlenmiş sayının kontrolünü yapan, eğer kullanıcı girilen sayıdan büyük sayı girdiyse seri porta A(Azalt) harfini gönderen kullanıcı düşük sayı girdiyse seri porta Y(Yükselt) harfini gönderen 80x51 işlemci programıdır. Kullanıcının tutulan sayıyı bilmek için 10 hakkı vardır. 10 hak içerisinde bilemez ise seri porta HAKKINIZ BITTI KAYBETTINIZ ifadesi, bilir ise TEBRIKLER ifadesi gönderilir.
+
+Programın hem assembly kodunu içeren .asm dosyası hemde Proteus içerisinde simüle edilen proje dosyası bulunmaktadır.
